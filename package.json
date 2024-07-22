@@ -1,0 +1,16 @@
+{
+  "name": "j0123p2-build",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "namita": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Namita",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
